@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TextsLab</string>
+    <string name="click_button">Submit Name</string>
+    <string name="name_hint">What is your name?</string>
+    <string name="random_text">Random Text</string>
+    <string-array
+        name="random_strings">
+        <item>Mobile App Dev</item>
+        <item>Web App Dev</item>
+        <item>Artificial Intelligence</item>
+        <item>Computer Vision</item>
+        <item>Parallel Computing</item>
+    </string-array>
+</resources>
